@@ -177,7 +177,7 @@ $episodeArray = $fetchDetails['episode_id'];
                                 <div class="anime_video_body_comment">
                                     <div class="anime_video_body_comment_name">
                                         <div class="btm-center">
-                                            <script id="dsq-count-scr" src="//(YOUR DISQUS SHORTNAME Here).disqus.com/count.js" async>
+                                            <script id="dsq-count-scr" src="//animxer-7.disqus.com/count.js" async>
                                             </script>
                                             <div id="specialButton" class="specialButton">
                                                 <span class="txt">Show</span> <a
@@ -195,7 +195,7 @@ $episodeArray = $fetchDetails['episode_id'];
                                                 var d = document,
                                                     s = d.createElement('script');
 
-                                                s.src = '//(YOUR DISQUS SHORTNAME Here).disqus.com/embed.js';
+                                                s.src = '//animxer-7.disqus.com/embed.js';
 
                                                 s.setAttribute('data-timestamp', +new Date());
                                                 (d.head || d.body).appendChild(s);
