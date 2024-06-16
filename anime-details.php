@@ -117,7 +117,7 @@ $fetchdetailss = json_decode($json1, true);
                   (function () {  // DON'T EDIT BELOW THIS LINE
                     var d = document, s = d.createElement('script');
 
-                    s.src = 'https://g(YOUR DISQUS SHORTNAME Here).disqus.com/embed.js';
+                    s.src = 'https://animxer-7.disqus.com/embed.js';
 
                     s.setAttribute('data-timestamp', +new Date());
 
@@ -266,6 +266,6 @@ $fetchdetailss = json_decode($json1, true);
       $('#scrollbar2').tinyscrollbar();
     }
   </script>
-  <script id="dsq-count-scr" src="//(YOUR DISQUS SHORTNAME Here).disqus.com/count.js" async></script>
+  <script id="dsq-count-scr" src="//animxer-7.disqus.com/count.js" async></script>
 </body>
 </html>
